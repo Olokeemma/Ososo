@@ -206,7 +206,7 @@ footer .social-links a:hover {
 }
 
 /* Responsive Styles */
-@media (max-width: 768px) {
+@media (max-width: 700px) {
     /* Adjust header for smaller screens */
     header {
         padding: 15px;
@@ -238,7 +238,7 @@ footer .social-links a:hover {
 }
 
 /* Styles for very small screens (mobile devices) */
-@media (max-width: 480px) {
+@media (max-width: 400px) {
     /* Smaller text for very small devices */
     h1 {
         font-size: 1.5rem;
